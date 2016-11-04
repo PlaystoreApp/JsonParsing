@@ -44,9 +44,9 @@ public class volley extends AppCompatActivity {
         setContentView(R.layout.volley);
 
 
-        final String link = ("http://52.27.88.58/vBulletin/core/api.php?api_m=api_init&clientname=Tutu&clientversion=2.0&platformname=iphone&platformversion=7&uniqueid=ponnu7574%22;");
+        final String link = ("");
 
-        final String link1 = ("http://61.0.248.36/Evoter/index.php/getallLAC?key=bfce5e819897848b42f36478da8a3b6f&&districtid=14");
+        final String link1 = ("");
 
 
         tvData = (TextView) findViewById(R.id.jsondata);
